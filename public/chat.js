@@ -1,6 +1,3 @@
-
-
-
 const socket = io()
 let name;
 let textarea = document.querySelector('#textarea')
